@@ -62,15 +62,15 @@ Churn prevention is a core telecom objective. This project predicts customer chu
 1. **Install requirements:**
 pip install -r requirements.txt
 
-text
+
 2. **Launch notebook:**
 jupyter notebook ClassicalML_Telco_Customer_Churn_Early_Warning_Dashboard.ipynb
 
-text
+
 3. **For API deployment:**
 uvicorn churn_api:app --reload
 
-text
+
 *(see notebook's usage cell for details)*
 
 ---
